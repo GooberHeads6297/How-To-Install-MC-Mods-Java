@@ -59,7 +59,7 @@ Windows Key + R (opens Run)
 Type "%Appdata%" Then navigate to ".minecraft" 
 <img width="282" alt="Screenshot 2025-05-16 134131" src="https://github.com/user-attachments/assets/ae16a0ad-a787-40ff-ae27-9ac8c6a4889f" />
 
-Ninth, find a folder called in, ".minecraft" called, "mods" should look like this here;
+Ninth, find a folder in, ".minecraft" called, "mods" should look like this here;
 <img width="54" alt="Screenshot 2025-05-16 140621" src="https://github.com/user-attachments/assets/c940289e-c288-4c9a-8e3d-2b8edcceddad" />
 
 Place any .JAR file you want in the, "mods" folder. 
